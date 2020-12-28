@@ -1,0 +1,5 @@
+data/output/*
+data/raw/*
+reports/*
+other
+env
